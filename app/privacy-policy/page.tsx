@@ -85,7 +85,7 @@ const sections = [
     items: [
       'Access, correct, or delete your personal information.',
       'Object to or restrict our processing of your personal information.',
-      'To exercise these rights, please contact us at info@northcrestpublishers.com.'
+      'To exercise these rights, please contact us at info@northcrestbookpublishers.com.'
     ]
   }
 ];
@@ -158,8 +158,8 @@ export default function PrivacyPolicy() {
               <h3 className="text-2xl font-display font-bold text-[#0A1D37] mb-4">Contact Support</h3>
               <p className="text-gray-600 mb-8">If you have any questions about this Privacy Policy, please contact us:</p>
               <div className="flex flex-col items-center gap-4">
-                <a href="mailto:info@northcrestpublishers.com" className="text-[#C8A96E] font-bold hover:underline text-lg">
-                  info@northcrestpublishers.com
+                <a href="mailto:info@northcrestbookpublishers.com" className="text-[#C8A96E] font-bold hover:underline text-lg">
+                  info@northcrestbookpublishers.com
                 </a>
                 <span className="text-gray-400 font-medium">(888) 260-4874</span>
               </div>

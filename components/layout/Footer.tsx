@@ -86,7 +86,7 @@ export default function Footer() {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-[10px] font-bold uppercase tracking-widest opacity-50 mb-0.5">Email</span>
-                  <span className="text-white font-bold text-sm truncate">Info@northcrestpublishers.com</span>
+                  <span className="text-white font-bold text-sm truncate">info@northcrestbookpublishers.com</span>
                 </div>
               </li>
               <li className="flex items-start gap-4 group">
