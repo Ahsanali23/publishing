@@ -77,7 +77,7 @@ export default function Footer() {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-[10px] font-bold uppercase tracking-widest opacity-50 mb-0.5">Phone</span>
-                  <span className="text-white font-bold text-sm">(888) 260-4874</span>
+                  <span className="text-white font-bold text-sm">(201) 283-8768</span>
                 </div>
               </li>
               <li className="flex items-center gap-4 group">

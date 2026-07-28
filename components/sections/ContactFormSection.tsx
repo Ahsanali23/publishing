@@ -134,7 +134,7 @@ export default function ContactFormSection() {
 
             <div className="flex flex-col gap-8">
               {[
-                { icon: <FaPhone />, label: 'Call Us Today', value: '(888) 260-4874' },
+                { icon: <FaPhone />, label: 'Call Us Today', value: '(201) 283-8768' },
                 { icon: <FaEnvelope />, label: 'Email Us', value: 'info@northcrestbookpublishers.com' },
                 { icon: <FaMapMarkerAlt />, label: 'Our Office', value: '123 Publishing Way, NY' }
               ].map((item, idx) => (

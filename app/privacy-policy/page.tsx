@@ -161,7 +161,7 @@ export default function PrivacyPolicy() {
                 <a href="mailto:info@northcrestbookpublishers.com" className="text-[#C8A96E] font-bold hover:underline text-lg">
                   info@northcrestbookpublishers.com
                 </a>
-                <span className="text-gray-400 font-medium">(888) 260-4874</span>
+                <span className="text-gray-400 font-medium">(201) 283-8768</span>
               </div>
             </div>
           </div>
